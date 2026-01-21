@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-01-21 22:01",
+  "update_time": "2026-01-21 22:06",
   "new_hot": [
     {
       "id": 1137877076,
@@ -567,7 +567,7 @@
       "releases_url": "https://api.github.com/repos/waynesutton/opensync/releases{/id}",
       "deployments_url": "https://api.github.com/repos/waynesutton/opensync/deployments",
       "created_at": "2026-01-17T18:35:12Z",
-      "updated_at": "2026-01-21T14:00:56Z",
+      "updated_at": "2026-01-21T14:04:18Z",
       "pushed_at": "2026-01-21T10:42:39Z",
       "git_url": "git://github.com/waynesutton/opensync.git",
       "ssh_url": "git@github.com:waynesutton/opensync.git",
@@ -575,8 +575,8 @@
       "svn_url": "https://github.com/waynesutton/opensync",
       "homepage": "https://www.opensync.dev/",
       "size": 1044,
-      "stargazers_count": 84,
-      "watchers_count": 84,
+      "stargazers_count": 85,
+      "watchers_count": 85,
       "language": "TypeScript",
       "has_issues": true,
       "has_projects": true,
@@ -584,7 +584,7 @@
       "has_wiki": false,
       "has_pages": false,
       "has_discussions": true,
-      "forks_count": 6,
+      "forks_count": 8,
       "mirror_url": null,
       "archived": false,
       "disabled": false,
@@ -603,9 +603,9 @@
         "sessions"
       ],
       "visibility": "public",
-      "forks": 6,
+      "forks": 8,
       "open_issues": 2,
-      "watchers": 84,
+      "watchers": 85,
       "default_branch": "main",
       "score": 1.0
     }
@@ -615,14 +615,14 @@
       "full_name": "tambo-ai /tambo",
       "html_url": "https://github.com/tambo-ai/tambo",
       "description": "Generative UI SDK for React",
-      "stargazers_count": "3,023",
+      "stargazers_count": "3,027",
       "growth": "246 stars today (Global AI)"
     },
     {
       "full_name": "xai-org /grok-1",
       "html_url": "https://github.com/xai-org/grok-1",
       "description": "Grok open release",
-      "stargazers_count": "50,819",
+      "stargazers_count": "50,821",
       "growth": "135 stars today (Global AI)"
     },
     {
@@ -636,7 +636,7 @@
       "full_name": "VectifyAI /PageIndex",
       "html_url": "https://github.com/VectifyAI/PageIndex",
       "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-      "stargazers_count": "5,924",
+      "stargazers_count": "5,925",
       "growth": "110 stars today (Global AI)"
     }
   ]
