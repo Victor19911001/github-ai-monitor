@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-01-24 00:01",
+  "update_time": "2026-01-24 12:01",
   "new_hot": [
     {
       "id": 1137877076,
@@ -69,16 +69,16 @@
       "releases_url": "https://api.github.com/repos/majcheradam/ocrbase/releases{/id}",
       "deployments_url": "https://api.github.com/repos/majcheradam/ocrbase/deployments",
       "created_at": "2026-01-20T00:42:56Z",
-      "updated_at": "2026-01-23T15:36:16Z",
-      "pushed_at": "2026-01-22T03:10:57Z",
+      "updated_at": "2026-01-24T02:28:20Z",
+      "pushed_at": "2026-01-23T22:58:08Z",
       "git_url": "git://github.com/majcheradam/ocrbase.git",
       "ssh_url": "git@github.com:majcheradam/ocrbase.git",
       "clone_url": "https://github.com/majcheradam/ocrbase.git",
       "svn_url": "https://github.com/majcheradam/ocrbase",
       "homepage": "",
-      "size": 1483,
-      "stargazers_count": 538,
-      "watchers_count": 538,
+      "size": 1506,
+      "stargazers_count": 563,
+      "watchers_count": 563,
       "language": "TypeScript",
       "has_issues": true,
       "has_projects": true,
@@ -86,7 +86,7 @@
       "has_wiki": true,
       "has_pages": false,
       "has_discussions": false,
-      "forks_count": 33,
+      "forks_count": 38,
       "mirror_url": null,
       "archived": false,
       "disabled": false,
@@ -118,9 +118,9 @@
         "websocket"
       ],
       "visibility": "public",
-      "forks": 33,
+      "forks": 38,
       "open_issues": 8,
-      "watchers": 538,
+      "watchers": 563,
       "default_branch": "main",
       "score": 1.0
     },
@@ -192,7 +192,7 @@
       "releases_url": "https://api.github.com/repos/SIGNIAINDEX/SIGNIA/releases{/id}",
       "deployments_url": "https://api.github.com/repos/SIGNIAINDEX/SIGNIA/deployments",
       "created_at": "2026-01-18T15:32:45Z",
-      "updated_at": "2026-01-22T15:22:49Z",
+      "updated_at": "2026-01-23T23:31:28Z",
       "pushed_at": "2026-01-22T23:10:30Z",
       "git_url": "git://github.com/SIGNIAINDEX/SIGNIA.git",
       "ssh_url": "git@github.com:SIGNIAINDEX/SIGNIA.git",
@@ -200,8 +200,8 @@
       "svn_url": "https://github.com/SIGNIAINDEX/SIGNIA",
       "homepage": "https://signialab.org/",
       "size": 582,
-      "stargazers_count": 215,
-      "watchers_count": 215,
+      "stargazers_count": 218,
+      "watchers_count": 218,
       "language": "Rust",
       "has_issues": true,
       "has_projects": true,
@@ -209,7 +209,7 @@
       "has_wiki": true,
       "has_pages": false,
       "has_discussions": false,
-      "forks_count": 18,
+      "forks_count": 19,
       "mirror_url": null,
       "archived": false,
       "disabled": false,
@@ -242,9 +242,9 @@
         "web3"
       ],
       "visibility": "public",
-      "forks": 18,
+      "forks": 19,
       "open_issues": 7,
-      "watchers": 215,
+      "watchers": 218,
       "default_branch": "main",
       "score": 1.0
     },
@@ -316,7 +316,7 @@
       "releases_url": "https://api.github.com/repos/softaworks/agent-toolkit/releases{/id}",
       "deployments_url": "https://api.github.com/repos/softaworks/agent-toolkit/deployments",
       "created_at": "2026-01-19T12:35:40Z",
-      "updated_at": "2026-01-23T15:45:42Z",
+      "updated_at": "2026-01-24T03:50:07Z",
       "pushed_at": "2026-01-23T02:23:46Z",
       "git_url": "git://github.com/softaworks/agent-toolkit.git",
       "ssh_url": "git@github.com:softaworks/agent-toolkit.git",
@@ -324,8 +324,8 @@
       "svn_url": "https://github.com/softaworks/agent-toolkit",
       "homepage": null,
       "size": 808,
-      "stargazers_count": 139,
-      "watchers_count": 139,
+      "stargazers_count": 166,
+      "watchers_count": 166,
       "language": "Python",
       "has_issues": true,
       "has_projects": true,
@@ -360,7 +360,7 @@
       "visibility": "public",
       "forks": 4,
       "open_issues": 0,
-      "watchers": 139,
+      "watchers": 166,
       "default_branch": "main",
       "score": 1.0
     },
@@ -432,7 +432,7 @@
       "releases_url": "https://api.github.com/repos/liu-ziting/ThinkFlowAI/releases{/id}",
       "deployments_url": "https://api.github.com/repos/liu-ziting/ThinkFlowAI/deployments",
       "created_at": "2026-01-21T07:28:13Z",
-      "updated_at": "2026-01-23T14:09:57Z",
+      "updated_at": "2026-01-24T00:18:44Z",
       "pushed_at": "2026-01-23T09:12:17Z",
       "git_url": "git://github.com/liu-ziting/ThinkFlowAI.git",
       "ssh_url": "git@github.com:liu-ziting/ThinkFlowAI.git",
@@ -440,8 +440,8 @@
       "svn_url": "https://github.com/liu-ziting/ThinkFlowAI",
       "homepage": "https://thinkflow-ai.lz-t.top",
       "size": 520,
-      "stargazers_count": 103,
-      "watchers_count": 103,
+      "stargazers_count": 109,
+      "watchers_count": 109,
       "language": "Vue",
       "has_issues": true,
       "has_projects": true,
@@ -449,7 +449,7 @@
       "has_wiki": true,
       "has_pages": false,
       "has_discussions": false,
-      "forks_count": 26,
+      "forks_count": 28,
       "mirror_url": null,
       "archived": false,
       "disabled": false,
@@ -466,9 +466,9 @@
         "web"
       ],
       "visibility": "public",
-      "forks": 26,
+      "forks": 28,
       "open_issues": 1,
-      "watchers": 103,
+      "watchers": 109,
       "default_branch": "main",
       "score": 1.0
     },
@@ -590,36 +590,36 @@
       "full_name": "microsoft /VibeVoice",
       "html_url": "https://github.com/microsoft/VibeVoice",
       "description": "Open-Source Frontier Voice AI",
-      "stargazers_count": "21,087",
-      "growth": "257 stars today (Global AI)"
+      "stargazers_count": "21,319",
+      "growth": "261 stars today (Global AI)"
     },
     {
       "full_name": "block /goose",
       "html_url": "https://github.com/block/goose",
       "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
-      "stargazers_count": "27,467",
-      "growth": "492 stars today (Global AI)"
+      "stargazers_count": "27,645",
+      "growth": "491 stars today (Global AI)"
     },
     {
       "full_name": "ai-dynamo /dynamo",
       "html_url": "https://github.com/ai-dynamo/dynamo",
       "description": "A Datacenter Scale Distributed Inference Serving Framework",
-      "stargazers_count": "5,864",
-      "growth": "29 stars today (Global AI)"
+      "stargazers_count": "5,925",
+      "growth": "33 stars today (Global AI)"
     },
     {
       "full_name": "browser-use /browser-use",
       "html_url": "https://github.com/browser-use/browser-use",
       "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
-      "stargazers_count": "76,257",
-      "growth": "210 stars today (Global AI)"
+      "stargazers_count": "76,434",
+      "growth": "205 stars today (Global AI)"
     },
     {
       "full_name": "github /copilot-cli",
       "html_url": "https://github.com/github/copilot-cli",
       "description": "GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.",
-      "stargazers_count": "7,080",
-      "growth": "114 stars today (Global AI)"
+      "stargazers_count": "7,275",
+      "growth": "125 stars today (Global AI)"
     }
   ]
 }
